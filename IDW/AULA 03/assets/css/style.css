@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(211, 211, 211)
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(25, 174, 25);
+}
+
+h2 {
+    background-color: rgb(111, 199, 87)
+}
+
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tudo {
+    border: solid 1px black
+}
+
+.fundod {
+    background-color: rgb(88, 165, 66)
+}
+
+.foto {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: relative;
+}
+
+.divc {
+    position:relative;
+    left: 300px;
+    bottom: 200px; 
+        
+}
+
+.divt{
+    width: 300px;
+}
